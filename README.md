@@ -1,1 +1,2 @@
-# Machine-Learing-python-
+To classify the images from the data set using machine learning algorithm . I  downloaded flower dataset from kaggle .
+Then I setup the the environment in the jupyter notebook with pre-installed modules like Tensorflow , Numpy , os , MatplotLib, random etc. in that i have used the Sequential Model to classify the images using the similarities  and I assigned the correct name to that flower using it's class name. Finally I used the matplotlib library to get classified images the output
